@@ -1,0 +1,15 @@
+{
+  "name": "note-taking-api",
+  "version": "1.0.0",
+  "description": "the note taking api",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anshul-verma",
+  "license": "ISC"
+}
